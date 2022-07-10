@@ -1,0 +1,29 @@
+{
+  "name": "second_project_with_ivan_brother",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sardortohirov222/Little_Portfolium_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sardortohirov222/Little_Portfolium_Project/issues"
+  },
+  "homepage": "https://github.com/sardortohirov222/Little_Portfolium_Project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^5.1.0"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^8.0.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
