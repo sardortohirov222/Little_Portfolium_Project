@@ -19,11 +19,12 @@
   "devDependencies": {
     "browser-sync": "^2.27.10",
     "gulp": "^4.0.2",
-    "gulp-cli": "^2.3.0",
-    "gulp-sass": "^5.1.0"
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.53.0"
   },
   "dependencies": {
-    "gulp-autoprefixer": "^8.0.0",
-    "save-dev": "^0.0.1-security"
+    "gulp-rename": "^2.0.0"
   }
 }
